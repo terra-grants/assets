@@ -20,7 +20,7 @@
     },
     "columbus-5": {
       "chainID": "columbus-5",
-      "lcd": "https://columbus-lcd.terra.dev",
+      "lcd": "https://lcd.terrac.io",
       "gasAdjustment": 3,
       "gasPrices": {
         "uluna": 28.325,
