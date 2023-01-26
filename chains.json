@@ -19,7 +19,7 @@
     "name": "classictestnet",
     "chainID": "rebel-2",
     "lcd": "https://lcd.terrac.dev",
-    "api": "https://lcd.terrac.dev",
+    "api": "https://fcd.terrac.dev",
     "mantle": "https://lcd.terrac.dev",
     "walletconnectID": 3
   },
