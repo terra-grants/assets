@@ -1,0 +1,659 @@
+{
+  "classic": {
+    "uaud": {
+      "token": "uaud",
+      "symbol": "AUTC",
+      "name": "TerraAUD Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/AUT.svg",
+      "chains": [
+        "columbus-5"
+      ],
+      "decimals": 6
+    },
+    "ucad": {
+      "token": "ucad",
+      "symbol": "CATC",
+      "name": "TerraCAD Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/CAT.svg",
+      "chains": [
+        "columbus-5"
+      ],
+      "decimals": 6
+    },
+    "uchf": {
+      "token": "uchf",
+      "symbol": "CHTC",
+      "name": "TerraCHF Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/CHT.svg",
+      "chains": [
+        "columbus-5"
+      ],
+      "decimals": 6
+    },
+    "ucny": {
+      "token": "ucny",
+      "symbol": "CNTC",
+      "name": "TerraCNY Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/CNT.svg",
+      "chains": [
+        "columbus-5"
+      ],
+      "decimals": 6
+    },
+    "udkk": {
+      "token": "udkk",
+      "symbol": "DKTC",
+      "name": "TerraDKK Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/DKT.svg",
+      "chains": [
+        "columbus-5"
+      ],
+      "decimals": 6
+    },
+    "ueur": {
+      "token": "ueur",
+      "symbol": "EUTC",
+      "name": "TerraEUR Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/EUT.svg",
+      "chains": [
+        "columbus-5"
+      ],
+      "decimals": 6
+    },
+    "ugbp": {
+      "token": "ugbp",
+      "symbol": "GPTC",
+      "name": "TerraGBP Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/GBT.svg",
+      "chains": [
+        "columbus-5"
+      ],
+      "decimals": 6
+    },
+    "uhkd": {
+      "token": "uhkd",
+      "symbol": "HKTC",
+      "name": "TerraHKD Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/HKT.svg",
+      "chains": [
+        "columbus-5"
+      ],
+      "decimals": 6
+    },
+    "uidr": {
+      "token": "uidr",
+      "symbol": "IDTC",
+      "name": "TerraIDR Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/IDT.svg",
+      "chains": [
+        "columbus-5"
+      ],
+      "decimals": 6
+    },
+    "uinr": {
+      "token": "uinr",
+      "symbol": "INTC",
+      "name": "TerraINR Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/INT.svg",
+      "chains": [
+        "columbus-5"
+      ],
+      "decimals": 6
+    },
+    "ujpy": {
+      "token": "ujpy",
+      "symbol": "JPTC",
+      "name": "TerraJPY Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/JPT.svg",
+      "chains": [
+        "columbus-5"
+      ],
+      "decimals": 6
+    },
+    "ukrw": {
+      "token": "ukrw",
+      "symbol": "KRTC",
+      "name": "TerraKRW Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/KRT.svg",
+      "chains": [
+        "columbus-5"
+      ],
+      "decimals": 6
+    },
+    "uluna": {
+      "token": "uluna",
+      "symbol": "LUNC",
+      "name": "Luna Classic",
+      "icon": "https://assets.terra.money/icon/svg/LUNC.svg",
+      "chains": [
+        "columbus-5"
+      ],
+      "decimals": 6
+    },
+    "umnt": {
+      "token": "umnt",
+      "symbol": "UMNTC",
+      "name": "TerraMNT Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/MNT.svg",
+      "chains": [
+        "columbus-5"
+      ],
+      "decimals": 6
+    },
+    "umyr": {
+      "token": "umyr",
+      "symbol": "MYTC",
+      "name": "TerraMYR Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/MYT.svg",
+      "chains": [
+        "columbus-5"
+      ],
+      "decimals": 6
+    },
+    "unok": {
+      "token": "unok",
+      "symbol": "NOTC",
+      "name": "TerraNOK Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/NOT.svg",
+      "chains": [
+        "columbus-5"
+      ],
+      "decimals": 6
+    },
+    "uphp": {
+      "token": "uphp",
+      "symbol": "PHTC",
+      "name": "TerraPHP Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/PHT.svg",
+      "chains": [
+        "columbus-5"
+      ],
+      "decimals": 6
+    },
+    "usdr": {
+      "token": "usdr",
+      "symbol": "SDRC",
+      "name": "TerraSDR Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/SDT.svg",
+      "chains": [
+        "columbus-5"
+      ],
+      "decimals": 6
+    },
+    "usek": {
+      "token": "usek",
+      "symbol": "SETC",
+      "name": "TerraSEK Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/SET.svg",
+      "chains": [
+        "columbus-5"
+      ],
+      "decimals": 6
+    },
+    "usgd": {
+      "token": "usgd",
+      "symbol": "SGTC",
+      "name": "TerraSGD Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/SGT.svg",
+      "chains": [
+        "columbus-5"
+      ],
+      "decimals": 6
+    },
+    "uthb": {
+      "token": "uthb",
+      "symbol": "THTC",
+      "name": "TerraTHB Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/THT.svg",
+      "chains": [
+        "columbus-5"
+      ],
+      "decimals": 6
+    },
+    "utwd": {
+      "token": "utwd",
+      "symbol": "TWTC",
+      "name": "TerraTWD Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/TWT.svg",
+      "chains": [
+        "columbus-5"
+      ],
+      "decimals": 6
+    },
+    "uusd": {
+      "token": "uusd",
+      "symbol": "USTC",
+      "name": "TerraUSD Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/UST.svg",
+      "chains": [
+        "columbus-5"
+      ],
+      "decimals": 6
+    }
+  },
+  "classictestnet": {
+    "uaud": {
+      "token": "uaud",
+      "symbol": "AUTC",
+      "name": "TerraAUD Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/AUT.svg",
+      "chains": [
+        "rebel-2"
+      ],
+      "decimals": 6
+    },
+    "ucad": {
+      "token": "ucad",
+      "symbol": "CATC",
+      "name": "TerraCAD Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/CAT.svg",
+      "chains": [
+        "rebel-2"
+      ],
+      "decimals": 6
+    },
+    "uchf": {
+      "token": "uchf",
+      "symbol": "CHTC",
+      "name": "TerraCHF Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/CHT.svg",
+      "chains": [
+        "rebel-2"
+      ],
+      "decimals": 6
+    },
+    "ucny": {
+      "token": "ucny",
+      "symbol": "CNTC",
+      "name": "TerraCNY Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/CNT.svg",
+      "chains": [
+        "rebel-2"
+      ],
+      "decimals": 6
+    },
+    "udkk": {
+      "token": "udkk",
+      "symbol": "DKTC",
+      "name": "TerraDKK Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/DKT.svg",
+      "chains": [
+        "rebel-2"
+      ],
+      "decimals": 6
+    },
+    "ueur": {
+      "token": "ueur",
+      "symbol": "EUTC",
+      "name": "TerraEUR Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/EUT.svg",
+      "chains": [
+        "rebel-2"
+      ],
+      "decimals": 6
+    },
+    "ugbp": {
+      "token": "ugbp",
+      "symbol": "GPTC",
+      "name": "TerraGBP Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/GBT.svg",
+      "chains": [
+        "rebel-2"
+      ],
+      "decimals": 6
+    },
+    "uhkd": {
+      "token": "uhkd",
+      "symbol": "HKTC",
+      "name": "TerraHKD Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/HKT.svg",
+      "chains": [
+        "rebel-2"
+      ],
+      "decimals": 6
+    },
+    "uidr": {
+      "token": "uidr",
+      "symbol": "IDTC",
+      "name": "TerraIDR Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/IDT.svg",
+      "chains": [
+        "rebel-2"
+      ],
+      "decimals": 6
+    },
+    "uinr": {
+      "token": "uinr",
+      "symbol": "INTC",
+      "name": "TerraINR Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/INT.svg",
+      "chains": [
+        "rebel-2"
+      ],
+      "decimals": 6
+    },
+    "ujpy": {
+      "token": "ujpy",
+      "symbol": "JPTC",
+      "name": "TerraJPY Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/JPT.svg",
+      "chains": [
+        "rebel-2"
+      ],
+      "decimals": 6
+    },
+    "ukrw": {
+      "token": "ukrw",
+      "symbol": "KRTC",
+      "name": "TerraKRW Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/KRT.svg",
+      "chains": [
+        "rebel-2"
+      ],
+      "decimals": 6
+    },
+    "uluna": {
+      "token": "uluna",
+      "symbol": "LUNC",
+      "name": "Luna Classic",
+      "icon": "https://assets.terra.money/icon/svg/LUNC.svg",
+      "chains": [
+        "rebel-2"
+      ],
+      "decimals": 6
+    },
+    "umnt": {
+      "token": "umnt",
+      "symbol": "UMNTC",
+      "name": "TerraMNT Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/MNT.svg",
+      "chains": [
+        "rebel-2"
+      ],
+      "decimals": 6
+    },
+    "umyr": {
+      "token": "umyr",
+      "symbol": "MYTC",
+      "name": "TerraMYR Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/MYT.svg",
+      "chains": [
+        "rebel-2"
+      ],
+      "decimals": 6
+    },
+    "unok": {
+      "token": "unok",
+      "symbol": "NOTC",
+      "name": "TerraNOK Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/NOT.svg",
+      "chains": [
+        "rebel-2"
+      ],
+      "decimals": 6
+    },
+    "uphp": {
+      "token": "uphp",
+      "symbol": "PHTC",
+      "name": "TerraPHP Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/PHT.svg",
+      "chains": [
+        "rebel-2"
+      ],
+      "decimals": 6
+    },
+    "usdr": {
+      "token": "usdr",
+      "symbol": "SDRC",
+      "name": "TerraSDR Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/SDT.svg",
+      "chains": [
+        "rebel-2"
+      ],
+      "decimals": 6
+    },
+    "usek": {
+      "token": "usek",
+      "symbol": "SETC",
+      "name": "TerraSEK Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/SET.svg",
+      "chains": [
+        "rebel-2"
+      ],
+      "decimals": 6
+    },
+    "usgd": {
+      "token": "usgd",
+      "symbol": "SGTC",
+      "name": "TerraSGD Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/SGT.svg",
+      "chains": [
+        "rebel-2"
+      ],
+      "decimals": 6
+    },
+    "uthb": {
+      "token": "uthb",
+      "symbol": "THTC",
+      "name": "TerraTHB Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/THT.svg",
+      "chains": [
+        "rebel-2"
+      ],
+      "decimals": 6
+    },
+    "utwd": {
+      "token": "utwd",
+      "symbol": "TWTC",
+      "name": "TerraTWD Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/TWT.svg",
+      "chains": [
+        "rebel-2"
+      ],
+      "decimals": 6
+    },
+    "uusd": {
+      "token": "uusd",
+      "symbol": "USTC",
+      "name": "TerraUSD Classic",
+      "icon": "https://assets.terra.money/icon/svg/Terra/UST.svg",
+      "chains": [
+        "rebel-2"
+      ],
+      "decimals": 6
+    }
+  },
+  "mainnet": {
+    "uakt": {
+      "token": "uakt",
+      "symbol": "AKT",
+      "name": "Akash",
+      "icon": "https://station-assets.terra.money/img/coins/Akash.svg",
+      "chains": [
+        "akashnet-2"
+      ],
+      "decimals": 6
+    },
+    "ucre": {
+      "token": "ucre",
+      "symbol": "CRE",
+      "name": "Crescent",
+      "icon": "https://station-assets.terra.money/img/coins/Crescent.svg",
+      "chains": [
+        "crescent-1"
+      ],
+      "decimals": 6
+    },
+    "uhuahua": {
+      "token": "uhuahua",
+      "symbol": "HUAHUA",
+      "name": "Huahua",
+      "icon": "https://station-assets.terra.money/img/coins/Huahua.png",
+      "chains": [
+        "chihuahua-1"
+      ],
+      "decimals": 6
+    },
+    "ujuno": {
+      "token": "ujuno",
+      "symbol": "JUNO",
+      "name": "Juno",
+      "icon": "https://station-assets.terra.money/img/coins/Juno.svg",
+      "chains": [
+        "juno-1"
+      ],
+      "decimals": 6
+    },
+    "ukuji": {
+      "token": "ukuji",
+      "symbol": "KUJI",
+      "name": "Kujira",
+      "icon": "https://station-assets.terra.money/img/coins/Kuji.svg",
+      "chains": [
+        "kaiyo-1"
+      ],
+      "decimals": 6
+    },
+    "uluna": {
+      "token": "uluna",
+      "symbol": "LUNA",
+      "name": "Terra Luna",
+      "icon": "https://station-assets.terra.money/img/coins/Luna.svg",
+      "chains": [
+        "phoenix-1"
+      ],
+      "decimals": 6
+    },
+    "uusdc": {
+      "token": "uusdc",
+      "symbol": "axlUSDC",
+      "name": "Axelar USDC",
+      "icon": "https://station-assets.terra.money/img/coins/axlUSDC.svg",
+      "chains": [],
+      "isAxelar": true,
+      "decimals": 6
+    },
+    "factory:kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7:uusk": {
+      "token": "factory:kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7:uusk",
+      "symbol": "USK",
+      "name": "USK",
+      "icon": "https://station-assets.terra.money/img/coins/USK.svg",
+      "chains": [
+        "kaiyo-1"
+      ],
+      "decimals": 6
+    }
+  },
+  "testnet": {
+    "terra1du2jfq23hlr8pgevz8cfl0cgu5shqcm5j84zxtpr09qp6psw4lxqhk7505": {
+      "token": "terra1du2jfq23hlr8pgevz8cfl0cgu5shqcm5j84zxtpr09qp6psw4lxqhk7505",
+      "symbol": "fJUNO",
+      "name": "faux JUNO Token",
+      "icon": "https://station-assets.terra.money/img/coins/fJuno.png",
+      "chains": [
+        "pisco-1"
+      ],
+      "decimals": 6
+    },
+    "terra1ksym7nysy9kx4aq0r7u3nflzxcly9l7gn285vzx9yn0xz3zyd7psd66swt": {
+      "token": "terra1ksym7nysy9kx4aq0r7u3nflzxcly9l7gn285vzx9yn0xz3zyd7psd66swt",
+      "symbol": "fOSMO",
+      "name": "faux OSMO Token",
+      "icon": "https://station-assets.terra.money/img/coins/Osmo.svg",
+      "chains": [
+        "pisco-1"
+      ],
+      "decimals": 6
+    },
+    "terra1qtwuc8atnycww2wz7cu7lh8qd2l50cnhgj3rsvxn72ge0qrxa3es5j6u3c": {
+      "token": "terra1qtwuc8atnycww2wz7cu7lh8qd2l50cnhgj3rsvxn72ge0qrxa3es5j6u3c",
+      "symbol": "fATOM",
+      "name": "faux ATOM Token",
+      "icon": "https://station-assets.terra.money/img/coins/fAtom.png",
+      "chains": [
+        "pisco-1"
+      ],
+      "decimals": 6
+    },
+    "corrino1qg5ega6dykkxc307y25pecuufrjkxkaggkkxh7nad0vhyhtuhw3sxuzcce": {
+      "token": "corrino1qg5ega6dykkxc307y25pecuufrjkxkaggkkxh7nad0vhyhtuhw3sxuzcce",
+      "symbol": "sCOR",
+      "name": "Staked COR",
+      "icon": "https://station-assets.terra.money/img/coins/Corrino.png",
+      "chains": [
+        "corrino-1"
+      ],
+      "decimals": 6
+    },
+    "ucor": {
+      "token": "ucor",
+      "symbol": "COR",
+      "name": "Corrino",
+      "icon": "https://station-assets.terra.money/img/coins/Corrino.png",
+      "chains": [
+        "corrino-1"
+      ],
+      "decimals": 6
+    },
+    "ujunox": {
+      "token": "ujunox",
+      "symbol": "JUNO",
+      "name": "Juno",
+      "icon": "https://station-assets.terra.money/img/coins/Juno.svg",
+      "chains": [
+        "uni-5"
+      ],
+      "decimals": 6
+    },
+    "uluna": {
+      "token": "uluna",
+      "symbol": "LUNA",
+      "name": "Terra Luna",
+      "icon": "https://station-assets.terra.money/img/coins/Luna.svg",
+      "chains": [
+        "pisco-1"
+      ],
+      "decimals": 6
+    },
+    "umars": {
+      "token": "umars",
+      "symbol": "MARS",
+      "name": "Mars",
+      "icon": "https://station-assets.terra.money/img/coins/Mars.svg",
+      "chains": [
+        "ares-1"
+      ],
+      "decimals": 6
+    },
+    "ordos1qg5ega6dykkxc307y25pecuufrjkxkaggkkxh7nad0vhyhtuhw3sfqtctu": {
+      "token": "ordos1qg5ega6dykkxc307y25pecuufrjkxkaggkkxh7nad0vhyhtuhw3sfqtctu",
+      "symbol": "sORD",
+      "name": "Staked ORD",
+      "icon": "https://station-assets.terra.money/img/coins/Ordos.png",
+      "chains": [
+        "ordos-1"
+      ],
+      "decimals": 6
+    },
+    "uord": {
+      "token": "uord",
+      "symbol": "ORD",
+      "name": "Ordos",
+      "icon": "https://station-assets.terra.money/img/coins/Ordos.png",
+      "chains": [
+        "ordos-1"
+      ],
+      "decimals": 6
+    },
+    "usei": {
+      "token": "usei",
+      "symbol": "SEI",
+      "name": "Sei",
+      "icon": "https://station-assets.terra.money/img/coins/Sei.png",
+      "chains": [
+        "atlantic-1"
+      ],
+      "decimals": 6
+    }
+  }
+}
