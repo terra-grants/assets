@@ -1,0 +1,355 @@
+{
+  "classic": {
+    "crescent-1": {
+      "chainID": "crescent-1",
+      "lcd": "https://mainnet.crescent.network:1317",
+      "gasAdjustment": 1.75,
+      "gasPrices": {
+        "ucre": 0.01
+      },
+      "prefix": "cre",
+      "coinType": "118",
+      "baseAsset": "ucre",
+      "name": "Crescent",
+      "icon": "https://station-assets.terra.money/img/chains/Crescent.svg",
+      "ibc": {
+        "fromTerra": "channel-49",
+        "toTerra": "channel-0"
+      },
+      "isClassic": true
+    },
+    "columbus-5": {
+      "chainID": "columbus-5",
+      "lcd": "https://columbus-lcd.terra.dev",
+      "gasAdjustment": 3,
+      "gasPrices": {
+        "uluna": 28.325,
+        "usdr": 0.52469,
+        "uusd": 0.75,
+        "ukrw": 850,
+        "umnt": 2142.855,
+        "ueur": 0.625,
+        "ucny": 4.9,
+        "ujpy": 81.85,
+        "ugbp": 0.55,
+        "uinr": 54.4,
+        "ucad": 0.95,
+        "uchf": 0.7,
+        "uaud": 0.95,
+        "usgd": 1,
+        "uthb": 23.1,
+        "usek": 6.25,
+        "unok": 6.25,
+        "udkk": 4.5,
+        "uidr": 10900,
+        "uphp": 38,
+        "uhkd": 5.85,
+        "umyr": 3,
+        "utwd": 20
+      },
+      "prefix": "terra",
+      "coinType": "330",
+      "baseAsset": "uluna",
+      "name": "Classic",
+      "icon": "https://assets.terra.money/icon/svg/TerraClassic.svg",
+      "isClassic": true
+    }
+  },
+  "classictestnet": {
+    "crescent-1": {
+      "chainID": "crescent-1",
+      "lcd": "https://mainnet.crescent.network:1317",
+      "gasAdjustment": 1.75,
+      "gasPrices": {
+        "ucre": 0.01
+      },
+      "prefix": "cre",
+      "coinType": "118",
+      "baseAsset": "ucre",
+      "name": "Crescent",
+      "icon": "https://station-assets.terra.money/img/chains/Crescent.svg",
+      "ibc": {
+        "fromTerra": "channel-49",
+        "toTerra": "channel-0"
+      },
+      "isClassic": true
+    },
+    "Rebel-2": {
+      "chainID": "rebel-2",
+      "lcd": "https://lcd.terrac.dev",
+      "gasAdjustment": 3,
+      "gasPrices": {
+        "uluna": 28.325,
+        "usdr": 0.52469,
+        "uusd": 0.75,
+        "ukrw": 850,
+        "umnt": 2142.855,
+        "ueur": 0.625,
+        "ucny": 4.9,
+        "ujpy": 81.85,
+        "ugbp": 0.55,
+        "uinr": 54.4,
+        "ucad": 0.95,
+        "uchf": 0.7,
+        "uaud": 0.95,
+        "usgd": 1,
+        "uthb": 23.1,
+        "usek": 6.25,
+        "unok": 6.25,
+        "udkk": 4.5,
+        "uidr": 10900,
+        "uphp": 38,
+        "uhkd": 5.85,
+        "umyr": 3,
+        "utwd": 20
+      },
+      "prefix": "terra",
+      "coinType": "330",
+      "baseAsset": "uluna",
+      "name": "Classic",
+      "icon": "https://assets.terra.money/icon/svg/TerraClassic.svg",
+      "isClassic": true
+    }
+  },
+  "localterra": {
+    "localterra": {
+      "chainID": "localterra",
+      "lcd": "http://localhost:1317",
+      "gasAdjustment": 1.75,
+      "gasPrices": {
+        "uluna": 0.15
+      },
+      "prefix": "terra",
+      "coinType": "330",
+      "baseAsset": "uluna",
+      "name": "LocalTerra",
+      "icon": "https://station-assets.terra.money/img/chains/Terra.svg"
+    }
+  },
+  "mainnet": {
+    "akashnet-2": {
+      "chainID": "akashnet-2",
+      "lcd": "https://rest.cosmos.directory/akash",
+      "gasAdjustment": 1.75,
+      "gasPrices": {
+        "uakt": 0.025
+      },
+      "prefix": "akash",
+      "coinType": "118",
+      "baseAsset": "uakt",
+      "name": "Akash",
+      "icon": "https://station-assets.terra.money/img/chains/Akash.svg",
+      "ibc": {
+        "fromTerra": "channel-45",
+        "toTerra": "channel-56"
+      }
+    },
+    "chihuahua-1": {
+      "chainID": "chihuahua-1",
+      "lcd": "https://api.chihuahua.wtf",
+      "gasAdjustment": 1.75,
+      "gasPrices": {
+        "uhuahua": 1
+      },
+      "prefix": "chihuahua",
+      "coinType": "118",
+      "baseAsset": "uhuahua",
+      "name": "Chihuahua",
+      "icon": "https://station-assets.terra.money/img/chains/Huahua.png",
+      "ibc": {
+        "fromTerra": "channel-44",
+        "toTerra": "channel-34"
+      }
+    },
+    "crescent-1": {
+      "chainID": "crescent-1",
+      "lcd": "https://mainnet.crescent.network:1317",
+      "gasAdjustment": 1.75,
+      "gasPrices": {
+        "ucre": 0.01
+      },
+      "prefix": "cre",
+      "coinType": "118",
+      "baseAsset": "ucre",
+      "name": "Crescent",
+      "icon": "https://station-assets.terra.money/img/chains/Crescent.svg",
+      "ibc": {
+        "fromTerra": "channel-37",
+        "toTerra": "channel-27"
+      }
+    },
+    "juno-1": {
+      "chainID": "juno-1",
+      "lcd": "https://lcd-juno.mib.tech",
+      "gasAdjustment": 1.75,
+      "gasPrices": {
+        "ujuno": 0.0025
+      },
+      "prefix": "juno",
+      "coinType": "118",
+      "baseAsset": "ujuno",
+      "name": "Juno",
+      "icon": "https://station-assets.terra.money/img/chains/Juno.svg",
+      "ibc": {
+        "fromTerra": "channel-2",
+        "toTerra": "channel-86"
+      }
+    },
+    "kaiyo-1": {
+      "chainID": "kaiyo-1",
+      "lcd": "https://lcd.kaiyo.kujira.setten.io",
+      "gasAdjustment": 1.75,
+      "gasPrices": {
+        "ukuji": 0.00119,
+        "ibc/DA59C009A0B3B95E0549E6BF7B075C8239285989FF457A8EDDBB56F10B2A6986": 5,
+        "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F": 0.0015
+      },
+      "prefix": "kujira",
+      "coinType": "118",
+      "baseAsset": "ukuji",
+      "name": "Kujira",
+      "icon": "https://station-assets.terra.money/img/chains/Kujira.png",
+      "ibc": {
+        "fromTerra": "channel-10",
+        "toTerra": "channel-5"
+      }
+    },
+    "phoenix-1": {
+      "chainID": "phoenix-1",
+      "lcd": "https://phoenix-lcd.terra.dev",
+      "gasAdjustment": 1.75,
+      "gasPrices": {
+        "uluna": 0.015
+      },
+      "prefix": "terra",
+      "coinType": "330",
+      "baseAsset": "uluna",
+      "name": "Terra",
+      "icon": "https://station-assets.terra.money/img/chains/Terra.svg"
+    }
+  },
+  "testnet": {
+    "alliance-testnet-1": {
+      "chainID": "alliance-testnet-1",
+      "lcd": "https://alliance-lcd.candeago.dev",
+      "gasAdjustment": 2.5,
+      "gasPrices": {
+        "ally": 0
+      },
+      "prefix": "ally",
+      "coinType": "118",
+      "baseAsset": "ally",
+      "name": "Alliance",
+      "icon": "https://station-assets.terra.money/img/chains/Alliance.png"
+    },
+    "corrino-1": {
+      "chainID": "corrino-1",
+      "lcd": "https://corrino-lcd.feather.network/",
+      "gasAdjustment": 2.5,
+      "gasPrices": {
+        "uhar": 0
+      },
+      "prefix": "corrino",
+      "coinType": "118",
+      "baseAsset": "ucor",
+      "name": "Corrino",
+      "icon": "https://station-assets.terra.money/img/chains/Corrino.png",
+      "ibc": {
+        "toTerra": "channel-1",
+        "fromTerra": "channel-197",
+        "ics": {
+          "contract": "corrino1yyca08xqdgvjz0psg56z67ejh9xms6l436u8y58m82npdqqhmmtqmxgcku",
+          "toTerra": "channel-0",
+          "fromTerra": "channel-196"
+        }
+      }
+    },
+    "uni-5": {
+      "chainID": "uni-5",
+      "lcd": "https://juno-testnet-api.polkachu.com",
+      "gasAdjustment": 2,
+      "gasPrices": {
+        "ujunox": 0.015
+      },
+      "prefix": "juno",
+      "coinType": "118",
+      "baseAsset": "ujunox",
+      "name": "Juno",
+      "icon": "https://station-assets.terra.money/img/chains/Juno.svg"
+    },
+    "ares-1": {
+      "chainID": "ares-1",
+      "lcd": "https://testnet-rest.marsprotocol.io",
+      "gasAdjustment": 2,
+      "gasPrices": {
+        "umars": 0
+      },
+      "prefix": "mars",
+      "coinType": "330",
+      "baseAsset": "umars",
+      "name": "Mars",
+      "icon": "https://station-assets.terra.money/img/chains/Mars.svg",
+      "ibc": {
+        "toTerra": "channel-0",
+        "fromTerra": "channel-189"
+      }
+    },
+    "ordos-1": {
+      "chainID": "ordos-1",
+      "lcd": "https://ordos-lcd.feather.network",
+      "gasAdjustment": 2.5,
+      "gasPrices": {
+        "uord": 0
+      },
+      "prefix": "ordos",
+      "coinType": "118",
+      "baseAsset": "uord",
+      "name": "Ordos",
+      "icon": "https://station-assets.terra.money/img/chains/Ordos.png",
+      "ibc": {
+        "toTerra": "channel-2",
+        "fromTerra": "channel-200",
+        "ics": {
+          "contract": "ordos1yyca08xqdgvjz0psg56z67ejh9xms6l436u8y58m82npdqqhmmtq56pc9e",
+          "toTerra": "channel-1",
+          "fromTerra": "channel-199"
+        },
+        "icsFromTerra": {
+          "contract": "terra12havy0g3svy6jlnc0je3z4f0lujhkp8h79ux5myhy4ujufeczpzsr5w7lz",
+          "toTerra": "channel-4",
+          "fromTerra": "channel-202"
+        }
+      }
+    },
+    "atlantic-1": {
+      "chainID": "atlantic-1",
+      "lcd": "https://sei-chain-incentivized.com/sei-chain-app",
+      "gasAdjustment": 2,
+      "gasPrices": {
+        "usei": 0.01
+      },
+      "prefix": "sei",
+      "coinType": "118",
+      "baseAsset": "usei",
+      "name": "Sei",
+      "icon": "https://station-assets.terra.money/img/chains/Sei.png",
+      "ibc": {
+        "fromTerra": "channel-100",
+        "toTerra": "channel-11"
+      }
+    },
+    "pisco-1": {
+      "chainID": "pisco-1",
+      "lcd": "https://pisco-lcd.terra.dev",
+      "gasAdjustment": 2.5,
+      "gasPrices": {
+        "uluna": 0.015
+      },
+      "prefix": "terra",
+      "coinType": "330",
+      "baseAsset": "uluna",
+      "name": "Terra",
+      "icon": "https://station-assets.terra.money/img/chains/Terra.svg"
+    }
+  }
+}
