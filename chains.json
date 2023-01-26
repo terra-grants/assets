@@ -15,6 +15,14 @@
     "mantle": "https://terra-classic-rpc.publicnode.com",
     "walletconnectID": 2
   },
+  "classictestnet": {
+    "name": "classictestnet",
+    "chainID": "rebel-2",
+    "lcd": "https://lcd.terrac.dev",
+    "api": "https://lcd.terrac.dev",
+    "mantle": "https://lcd.terrac.dev",
+    "walletconnectID": 3
+  },
   "testnet": {
     "name": "testnet",
     "chainID": "pisco-1",
