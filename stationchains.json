@@ -74,7 +74,7 @@
       },
       "isClassic": true
     },
-    "Rebel-2": {
+    "rebel-2": {
       "chainID": "rebel-2",
       "lcd": "https://lcd.terrac.dev",
       "gasAdjustment": 3,
