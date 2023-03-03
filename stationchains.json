@@ -21,7 +21,7 @@
     "columbus-5": {
       "chainID": "columbus-5",
       "lcd": "https://lcd.terrac.io",
-      "gasAdjustment": 3,
+      "gasAdjustment": 4,
       "gasPrices": {
         "uluna": 28.325,
         "usdr": 0.52469,
