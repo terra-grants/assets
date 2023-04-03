@@ -111,6 +111,62 @@
       "isClassic": true
     }
   },
+    "classicv2test": {
+    "crescent-1": {
+      "chainID": "crescent-1",
+      "lcd": "https://mainnet.crescent.network:1317",
+      "gasAdjustment": 1.75,
+      "gasPrices": {
+        "ucre": 0.01
+      },
+      "prefix": "cre",
+      "coinType": "118",
+      "baseAsset": "ucre",
+      "name": "Crescent",
+      "icon": "https://station-assets.terra.money/img/chains/Crescent.svg",
+      "ibc": {
+        "fromTerra": "channel-49",
+        "toTerra": "channel-0"
+      },
+      "isClassic": true
+    },
+    "titan-1": {
+      "chainID": "titan-1",
+      "lcd": "https://testlcd.terrac.dev",
+      "gasAdjustment": 3,
+      "gasPrices": {
+        "uluna": 28.325,
+        "usdr": 0.52469,
+        "uusd": 0.75,
+        "ukrw": 850,
+        "umnt": 2142.855,
+        "ueur": 0.625,
+        "ucny": 4.9,
+        "ujpy": 81.85,
+        "ugbp": 0.55,
+        "uinr": 54.4,
+        "ucad": 0.95,
+        "uchf": 0.7,
+        "uaud": 0.95,
+        "usgd": 1,
+        "uthb": 23.1,
+        "usek": 6.25,
+        "unok": 6.25,
+        "udkk": 4.5,
+        "uidr": 10900,
+        "uphp": 38,
+        "uhkd": 5.85,
+        "umyr": 3,
+        "utwd": 20
+      },
+      "prefix": "terra",
+      "coinType": "330",
+      "baseAsset": "uluna",
+      "name": "Classic",
+      "icon": "https://assets.terra.money/icon/svg/TerraClassic.svg",
+      "isClassic": true
+    }
+  },
   "localterra": {
     "localterra": {
       "chainID": "localterra",
