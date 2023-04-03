@@ -23,6 +23,14 @@
     "mantle": "https://lcd.terrac.dev",
     "walletconnectID": 3
   },
+  "classicv2test": {
+    "name": "classicv2test",
+    "chainID": "titan-1",
+    "lcd": "https://testlcd.terrac.dev",
+    "api": "https://fcd.terrac.dev",
+    "mantle": "https://testlcd.terrac.dev",
+    "walletconnectID": 4
+  },
   "testnet": {
     "name": "testnet",
     "chainID": "pisco-1",
